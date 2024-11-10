@@ -84,11 +84,10 @@ Use the JSON Key in Your Code:
 In your code, point to this JSON file to authenticate your API requests. For example, you might set it with an environment variable:
 
 ## Converting to .exe file 
-#### To convert your Python Tkinter desktop application into an executable file (.exe), you can use a tool called PyInstaller. 
+#### To convert your Python Tkinter desktop application into an executable file (.exe), you can use a tool called Auto PY to EXE. 
 
 
-###  Steps to Convert Python Script to .exe Using PyInstaller
-1. Install Auto PY to EXE
+###  Steps to Convert Python Script to .exe Auto PY to EXE
 
 bash
 ```
