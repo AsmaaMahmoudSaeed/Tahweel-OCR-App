@@ -10,3 +10,4 @@ opencv==4.10.0
 tqdm==4.66.5
 opencv-python==4.10.0.84
 jupyter==6.5.7
+tahweel==0.1.0
