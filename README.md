@@ -1,3 +1,5 @@
+# https://github.com/ieasybooks/tahweel
+
 # PDF to DOCX OCR Application
 
 This desktop application allows users to convert PDF files to DOCX format using OCR (Optical Character Recognition). The application leverages Google Drive's OCR capabilities to process the content and can display the results in an easy-to-read format. Built with Tkinter, this app provides a simple, user-friendly interface for file selection, conversion, and display of the results.\
