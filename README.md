@@ -1,4 +1,16 @@
 
+[![pydotplus v2.0.2](https://img.shields.io/badge/pydotplus-2.0.2-blue?style=plastic&logo=python&logoColor=white)](https://pypi.org/project/pydotplus/2.0.2/)
+[![pytesseract v0.3.13](https://img.shields.io/badge/pytesseract-0.3.13-green?style=plastic&logo=python&logoColor=white)](https://pypi.org/project/pytesseract/0.3.13/)
+[![gTTS v2.5.3](https://img.shields.io/badge/gTTS-2.5.3-orange?style=plastic&logo=python&logoColor=white)](https://pypi.org/project/gTTS/2.5.3/)
+[![pdf2image v1.17.0](https://img.shields.io/badge/pdf2image-1.17.0-red?style=plastic&logo=python&logoColor=white)](https://pypi.org/project/pdf2image/1.17.0/)
+[![Pillow v10.3.0](https://img.shields.io/badge/Pillow-10.3.0-purple?style=plastic&logo=python&logoColor=white)](https://pypi.org/project/Pillow/10.3.0/)
+[![python-docx v1.1.2](https://img.shields.io/badge/python--docx-1.1.2-yellow?style=plastic&logo=python&logoColor=white)](https://pypi.org/project/python-docx/1.1.2/)
+[![Levenshtein v0.26.0](https://img.shields.io/badge/Levenshtein-0.26.0-teal?style=plastic&logo=python&logoColor=white)](https://pypi.org/project/python-Levenshtein/0.26.0/)
+[![opencv v4.10.0](https://img.shields.io/badge/opencv-4.10.0-lightgrey?style=plastic&logo=opencv&logoColor=white)](https://pypi.org/project/opencv/4.10.0/)
+[![tqdm v4.66.5](https://img.shields.io/badge/tqdm-4.66.5-brightgreen?style=plastic&logo=python&logoColor=white)](https://pypi.org/project/tqdm/4.66.5/)
+[![opencv-python v4.10.0.84](https://img.shields.io/badge/opencv--python-4.10.0.84-cyan?style=plastic&logo=opencv&logoColor=white)](https://pypi.org/project/opencv-python/4.10.0.84/)
+[![jupyter v6.5.7](https://img.shields.io/badge/jupyter-6.5.7-magenta?style=plastic&logo=jupyter&logoColor=white)](https://pypi.org/project/jupyter/6.5.7/)
+[![tahweel v0.1.0](https://img.shields.io/badge/tahweel-0.1.0-ff69b4?style=plastic&logo=python&logoColor=white)](https://pypi.org/project/tahweel/0.1.0/)
 # PDF to DOCX OCR Application
 
 This desktop application allows users to convert PDF files to DOCX format using OCR (Optical Character Recognition). This application is based on the Tahweel library [https://github.com/ieasybooks/tahweel ](https://github.com/ieasybooks/tahweel)
